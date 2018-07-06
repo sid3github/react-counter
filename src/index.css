@@ -1,0 +1,17 @@
+.counter{
+    text-align: center;
+}
+
+body{
+    background-color: #66ccff;
+    font-family: sans-serif;
+}
+
+.down{
+    margin-left: 8px;
+    padding: 5px;
+}
+
+.up{
+    padding: 5px;
+}
