@@ -10,8 +10,16 @@ body{
 .down{
     margin-left: 8px;
     padding: 5px;
+    border-color: #66ccff;
 }
 
 .up{
     padding: 5px;
+    border-color: #66ccff;
+}
+
+.res{
+    padding: 5px;
+    margin-left: 8px;
+    border-color: #66ccff;
 }
